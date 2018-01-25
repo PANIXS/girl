@@ -3,7 +3,6 @@ package com.imooc.enums;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
-import javax.persistence.criteria.CriteriaBuilder;
 @AllArgsConstructor
 @Getter
 public enum ResultEnum {

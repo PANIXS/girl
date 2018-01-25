@@ -24,4 +24,8 @@ public class GirlService {
         }
 
     }
+
+    public Girl findOne(Integer id){
+        return girlRespository.findOne(id);
+    }
 }
